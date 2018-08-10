@@ -1,0 +1,1 @@
+#Lab 5: Finishing six function and testing in browswer with tests.js file.
